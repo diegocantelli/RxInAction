@@ -1,0 +1,16 @@
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\bin\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.exe
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\bin\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.deps.json
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\bin\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.runtimeconfig.json
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\bin\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.runtimeconfig.dev.json
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\bin\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.dll
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\bin\Debug\net5.0\ref\AsynchronousPrograming.ParallelProcessing.dll
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\bin\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.pdb
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\obj\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.csproj.AssemblyReference.cache
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\obj\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\obj\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.AssemblyInfoInputs.cache
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\obj\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.AssemblyInfo.cs
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\obj\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.csproj.CoreCompileInputs.cache
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\obj\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.dll
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\obj\Debug\net5.0\ref\AsynchronousPrograming.ParallelProcessing.dll
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\obj\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.pdb
+C:\Users\pc-cantelli\source\repos\AsynchronousPrograming\AsynchronousPrograming.ParallelProcessing\obj\Debug\net5.0\AsynchronousPrograming.ParallelProcessing.genruntimeconfig.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+w8goJY56ZckkiIw5Cd626pxfe5964mXA958n5YfQ19sp2vU5UUjlou9Khr3+woXpuwpnpW4WFhIKBfn3JtR3Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc-cantelli\\source\\repos\\AsynchronousPrograming\\AsynchronousPrograming.RxBasics\\AsynchronousPrograming.RxBasics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc-cantelli\\.nuget\\packages\\system.reactive\\5.0.0\\system.reactive.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

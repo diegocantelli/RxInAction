@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "CbsrRYgyiDbcMrU3y6Eq/aTXHQw2ksifOoHsFEvd+rd1JF7HZ/XCppwSovDw7qkYHX5pfJ9ylS8b2HaxZKpjsA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\pc-cantelli\\source\\repos\\AsynchronousPrograming\\AsynchronousPrograming.AsyncIEnumerable\\AsynchronousPrograming.AsyncIEnumerable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc-cantelli\\.nuget\\packages\\system.linq.async\\6.0.1\\system.linq.async.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
